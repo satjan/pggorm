@@ -14,7 +14,7 @@ Then import the package into your own code.
 
 ## Usage and documentation
 
-see examples
+[see examples](https://github.com/satjan/jwt-auth-middleware/tree/main/_examples)
 
 ## Authors
 - [Satjan](https://github.com/satjan)
