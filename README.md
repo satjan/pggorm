@@ -2,9 +2,6 @@
 
 A Go package designed to simplify the integration of GORM with PostgreSQL, providing a streamlined, high-performance setup for database operations. This package enables seamless configuration, efficient connection handling, and provides utility functions for common database operations. Ideal for developers looking to integrate GORM with PostgreSQL in their projects.
 
-
-![Project status](https://img.shields.io/badge/version-1.0.1-green.svg)
-
 ## Installation
 
 Use go get.
